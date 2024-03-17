@@ -8,7 +8,9 @@ class A {
     
 }
 
-class B extends A {
+class B extends A { 
+  
+
     void get() {
         System.out.println("Enter rollno,Name,Address: ");
         roll = sc.nextInt();
