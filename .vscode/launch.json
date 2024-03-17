@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Child",
+      "request": "launch",
+      "mainClass": "Child",
+      "projectName": "3rd Sem Java_bb86dd1a"
+    },
+    {
+      "type": "java",
       "name": "Launch MultiHei",
       "request": "launch",
       "mainClass": "MultiHei",
